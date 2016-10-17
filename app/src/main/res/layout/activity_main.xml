@@ -11,9 +11,15 @@
     android:orientation="vertical">
 
     <Button
+        android:id="@+id/but_out"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/but_out"/>
+    <Button
         android:id="@+id/but_in"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/but_in"/>
+
 
 </LinearLayout>
