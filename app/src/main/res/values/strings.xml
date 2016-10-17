@@ -1,3 +1,6 @@
 <resources>
+
     <string name="app_name">FileIO</string>
+    <string name="but_in">메모리 파일에서 불러오기</string>
+    <string name="but_out">메모리 파일에 저장하기</string>
 </resources>
